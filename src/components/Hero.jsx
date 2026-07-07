@@ -22,7 +22,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-6 text-lg text-gray-700 leading-8">
-            Your AI-powered learning companion that helps students
+            Your Artificial Inteligent-powered learning companion that helps students
             understand concepts, practice questions, monitor progress,
             and prepare confidently for exams.
           </p>
